@@ -18,31 +18,31 @@ let bless = {
     changes: [
         {
             key: "data.bonuses.mwak.attack",
-            mode: 3,
+            mode: 2,
             priority: 20,
             value: "+1d4",
         },
         {
             key: "data.bonuses.rwak.attack",
-            mode: 3,
+            mode: 2,
             priority: 20,
             value: "+1d4",
         },
 		{
             key: "data.bonuses.msak.attack",
-            mode: 3,
+            mode: 2,
             priority: 20,
             value: "+1d4",
         },
 		{
             key: "mdata.bonuses.rsak.attack",
-            mode: 3,
+            mode: 2,
             priority: 20,
             value: "+1d4",
         },
 		{
             key: "data.bonuses.abilities.save",
-            mode: 3,
+            mode: 2,
             priority: 20,
             value: "+1d4",
         },
